@@ -1,0 +1,7 @@
+Zend Server Facter addon
+========================
+
+Simple addon to check if Zend Server is installed on your system:
+
+* zendserver.rb
+  zendserver => true|false
